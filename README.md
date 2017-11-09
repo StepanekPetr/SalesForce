@@ -2,6 +2,7 @@
 upWork demo
 
 Easiest way how to run tests is:
+- download and extract .zip file
 - Install Chrome
 - Get visual studio 2015 (community version)
 - Add SpecFlow plugin to visual stuido
